@@ -5,11 +5,17 @@ In this project, we will develop a conversational AI assistant (chatbot) to hand
 
 ### Prerequisites
 Before starting this project, ensure that you have the following prerequisites installed:
+
 . Python 3.7 or higher
+
 . PyTorch
+
 . Transformers (Hugging Face library)
+
 . RASA (Open-source conversational AI framework)
+
 . spaCy (Natural Language Processing library)
+
 . SQLite (or any other database engine)
 
 ### Step 1: Load the Dataset
